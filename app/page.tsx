@@ -107,7 +107,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-3xl mx-auto leading-relaxed text-pretty">
-            Trisolpharma provides comprehensive scientific support to pharmaceutical companies across Clinical Research Operations, Drug Development, Injectable Formulation Engineering, and Advanced Bio-Study Research. We combine expertise, innovation, and dedication to accelerate your path to market.
+          Trisol Biopharma provides comprehensive scientific support to pharmaceutical companies across Clinical Research Operations, Drug Development, Injectable Formulation Engineering, and Advanced Bio-Study Research. We combine expertise, innovation, and dedication to accelerate your path to market.
           </p>
 
           <a
@@ -122,7 +122,7 @@ export default function Home() {
       {/* ===== WHY CHOOSE US SECTION ===== */}
       <section className="py-16 md:py-24 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">Why Choose Trisolpharma?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">Why Choose Trisol Biopharma?</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
@@ -200,13 +200,13 @@ export default function Home() {
           <div className="max-w-3xl mx-auto bg-orange-50 p-8 rounded-lg border-l-4 border-orange-500 mt-16">
             <h2 className="text-2xl font-bold text-center text-gray-900 mb-6">Our Integrated Approach</h2>
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
-              At Trisolpharma, we don&apos;t just provide individual services—we offer an integrated approach that brings all components of pharmaceutical development together seamlessly.
+              At Trisol Biopharma, we don&apos;t just provide individual services—we offer an integrated approach that brings all components of pharmaceutical development together seamlessly.
             </p>
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
               Whether you need comprehensive CRO support, innovative R&D solutions, specialized injectable formulation expertise, or rigorous bio-study research, our team works collaboratively to ensure every aspect of your project meets the highest standards of scientific excellence and regulatory compliance.
             </p>
             <p className="text-gray-700 text-lg leading-relaxed">
-              Partner with Trisolpharma and experience the difference that true scientific excellence and dedication can make in your pharmaceutical journey.
+              Partner with Trisol Biopharma and experience the difference that true scientific excellence and dedication can make in your pharmaceutical journey.
             </p>
           </div>
         </div>
@@ -215,7 +215,7 @@ export default function Home() {
       {/* ===== ABOUT SECTION ===== */}
       <section id="about" className="py-16 md:py-24 px-4 bg-gray-50">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-orange-500 text-center">About Trisolpharma</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-orange-500 text-center">About Trisol Biopharma</h1>
           <p className="text-xl text-gray-600 text-center mb-16">Leading pharmaceutical innovation through science and dedication</p>
 
           {/* Mission & Vision */}
@@ -269,7 +269,7 @@ export default function Home() {
 
             <div className="max-w-3xl mx-auto space-y-6 text-gray-700 leading-relaxed">
               <p className="text-lg">
-                Trisolpharma was founded with a singular vision: to provide pharmaceutical companies with the scientific expertise and technical precision needed to accelerate drug development and achieve market success. Our journey began with a small team of passionate scientists and researchers who recognized a critical gap in the pharmaceutical industry.
+              Trisol Biopharma was founded with a singular vision: to provide pharmaceutical companies with the scientific expertise and technical precision needed to accelerate drug development and achieve market success. Our journey began with a small team of passionate scientists and researchers who recognized a critical gap in the pharmaceutical industry.
               </p>
 
               <p className="text-lg">
@@ -277,7 +277,7 @@ export default function Home() {
               </p>
 
               <p className="text-lg">
-                Today, Trisolpharma stands as a beacon of innovation in pharmaceutical research and development. We have successfully supported hundreds of drug development programs, contributed to numerous regulatory approvals, and helped bring life-changing medicines to patients worldwide. Yet, we remain grounded in our founding principles and committed to driving the industry forward through groundbreaking research and exceptional service.
+                Today, Trisol Biopharma stands as a beacon of innovation in pharmaceutical research and development. We have successfully supported hundreds of drug development programs, contributed to numerous regulatory approvals, and helped bring life-changing medicines to patients worldwide. Yet, we remain grounded in our founding principles and committed to driving the industry forward through groundbreaking research and exceptional service.
               </p>
 
               <p className="text-lg font-semibold text-orange-500 text-center">
@@ -315,7 +315,7 @@ export default function Home() {
       {/* ===== CTA SECTION ===== */}
       <section className="bg-orange-500 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Partner with Trisolpharma?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Partner with Trisol Biopharma?</h2>
           <p className="text-lg mb-8 opacity-90">
             Let&apos;s discuss how we can accelerate your pharmaceutical innovations and achieve your research goals.
           </p>
@@ -350,8 +350,8 @@ export default function Home() {
                 <Mail size={40} />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Email</h3>
-              <a href="mailto:info@trisolpharma.com" className="text-orange-500 hover:text-orange-600 font-medium">
-                info@trisolpharma.com
+              <a href="mailto:info@trisolbiopharma.com" className="text-orange-500 hover:text-orange-600 font-medium">
+                info@trisolbiopharma.com
               </a>
             </div>
 

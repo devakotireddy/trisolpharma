@@ -21,7 +21,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
         <Link href="#hero" className="text-2xl font-bold bg-gradient-to-r from-orange-500 to-orange-600 bg-clip-text text-transparent">
-          Trisolpharma
+        Trisol Biopharma
         </Link>
 
         {/* Desktop Navigation */}

@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Trisolpharma - Pharmaceutical Research & Development',
+  title: 'Trisol Biopharma - Pharmaceutical Research & Development',
   description: 'Advancing healthcare innovation with precision and purpose. Scientific support for Clinical Research Operations, R&D, Injectable Formulation Development, and Bio-Study Data Research.',
   keywords: ['pharmaceutical', 'CRO', 'R&D', 'clinical research', 'drug development', 'injectable formulation'],
   icons: {
