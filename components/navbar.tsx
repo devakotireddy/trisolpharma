@@ -20,9 +20,13 @@ export default function Navbar() {
     <nav className="bg-white shadow-md sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
-        <Link href="#hero" className="text-2xl font-bold bg-gradient-to-r from-orange-500 to-orange-600 bg-clip-text text-transparent">
-        Trisol Biopharma
-        </Link>
+        <Link href="/" className="flex items-center group">
+              <img
+                src="/trisol-biopharma.png"
+                alt="InnovaGxP Systems"
+                className="h-16 w-auto object-contain"
+              />
+            </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex gap-8">

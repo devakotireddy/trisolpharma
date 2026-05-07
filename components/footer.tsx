@@ -8,7 +8,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4 text-blue-400">Trisol Biopharma</h3>
+          <Link href="/" className="flex items-center group">
+              <img
+                src="/trisol-biopharma.png"
+                alt="InnovaGxP Systems"
+                className="h-16 w-auto object-contain"
+              />
+            </Link>
             <p className="text-gray-400 mb-4">
               Advancing healthcare innovation with precision and purpose through scientific support and research excellence.
             </p>
