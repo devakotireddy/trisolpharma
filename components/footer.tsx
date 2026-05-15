@@ -48,7 +48,7 @@ export default function Footer() {
             <div className="space-y-3 text-gray-400">
               <div className="flex items-center gap-2">
                 <MapPin size={18} className="text-blue-400" />
-                <span>123 Pharma Street, Medical City, MC 12345</span>
+                <span>5th Floor, The Chennai Silks Building, Door No. 11-6-72/A&B, Y Junction, Pragathi Nagar, Kukatpally, Hyderabad, Telangana 500072, India</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={18} className="text-blue-400" />
@@ -58,8 +58,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Phone size={18} className="text-blue-400" />
-                <a href="tel:+1234567890" className="hover:text-blue-400 transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+919849628244" className="hover:text-blue-400 transition-colors">
+                +91 98496 28244
                 </a>
               </div>
             </div>
