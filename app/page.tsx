@@ -341,7 +341,7 @@ export default function Home() {
                 <MapPin size={40} />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Location</h3>
-              <p className="text-gray-700">123 Pharma Street, Medical City, MC 12345</p>
+              <p className="text-gray-700">5th Floor, The Chennai Silks Building, Door No. 11-6-72/A&B, Y Junction, Pragathi Nagar, Kukatpally, Hyderabad, Telangana 500072, India</p>
             </div>
 
             {/* Email */}
@@ -361,8 +361,8 @@ export default function Home() {
                 <Phone size={40} />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Phone</h3>
-              <a href="tel:+1234567890" className="text-orange-500 hover:text-orange-600 font-medium">
-                +1 (234) 567-890
+              <a href="tel:+919849628244" className="text-orange-500 hover:text-orange-600 font-medium">
+              +91 98496 28244
               </a>
             </div>
           </div>
